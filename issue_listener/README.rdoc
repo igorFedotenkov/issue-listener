@@ -1,3 +1,3 @@
 = issue_listener
 
-plugin that sends pull request right after issue change
+Plugin that sends pull request right after issue change. After installation please open issue_listener/hooks.rb and type values and remove 'return' to start work with.
