@@ -6,7 +6,7 @@ Redmine::Plugin.register :issue_listener do
   author 'Igor Fedotenkov'
   description 'This is a plugin that listen for issue changes'
   version '0.0.1'
-  url 'https://github.com/'
+  url 'https://github.com/igorFedotenkov/issue-listener'
   author_url 'https://github.com/igorFedotenkov'
 end
 
