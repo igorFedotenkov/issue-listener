@@ -1,5 +1,5 @@
 require 'redmine'
-require_dependency 'plugins/issue_listener/hooks.rb'
+require_dependency (Dir.pwd + '/plugins/issue_listener/hooks.rb')
 
 Redmine::Plugin.register :issue_listener do
   name 'Issue Listener plugin'
